@@ -42,25 +42,6 @@
 
 ---
 
-# Do GAAD activities
-## ctfeds.org/gaad-act
-
-![](img/laptop.jpg)
-
-^ Try and cover them all
-30m
-
----
-
-# Most important thing?
-
-![](img/discussion.jpg)
-
-^ Review
-5m
-
----
-
 # Make a checklist
 ## Using Appendix A
 
@@ -82,21 +63,19 @@
 
 ---
 
-# Resources
-# Review
+# Work on your stuff
 
-![](img/discussion.jpg)
+![](img/laptop.jpg)
 
 ---
 
-## GAAD At Your Office
+## Inclusive Design At Your Office
 # SMART Goal
 
 ![](img/indexcards.jpg)
 
-^ Thursday
-Value, Affect?
-blog post, tweets, share on meetup, Slack groups. Global Accessibility **Awareness** Day!
+^ Value, Affect?
+blog post, tweets, share on meetup, Slack groups.
 
 ---
 
