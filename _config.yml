@@ -1,13 +1,13 @@
 # Site settings
-title: Global Accessibility Awareness Day 2016
-baseurl: "/Global-Accessibility-Awareness-Day-2016" # the subpath of your site, e.g. /blog/
+title: Open Design Cape Town 2016
+baseurl: "/Open-Design-Cape-Town-2016" # the subpath of your site, e.g. /blog/
 # url: "http://ctfeds.org" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 permalink: :title/
 
 navigation:
- - title: Global Accessibility Awareness Day 2016
+ - title: Open Design Cape Town 2016
    url: index.html
 
 exclude: [
