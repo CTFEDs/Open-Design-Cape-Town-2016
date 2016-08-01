@@ -1,6 +1,6 @@
 # Open Design Cape Town workshop
 
-This month at CTFEDs we're running a workshop as part of [Open Design Cape Town festival](http://opendesignct.com/). We're going to focus on accessibility, Universal Design, and Human-Centered Design. In particular, we're going to look at making our own stuff more accessible. We'll work through some practical examples and then apply the ideas to our own projects.
+This month at CTFEDs we're running a workshop as part of [Open Design Cape Town festival](http://opendesignct.com/). We're going to focus on accessibility, Universal Design, and Human-Centered Design. In particular, we're going to look at making our own stuff more accessible. We'll work through some practical examples and then apply the ideas to our own projects. Please note that this workshop is an iteration on the [Global Accessibility Awareness Day workshop](http://www.meetup.com/ctfeds/events/221386799/), but with a big block of coding time in the middle.
 
 That means things like:
 
