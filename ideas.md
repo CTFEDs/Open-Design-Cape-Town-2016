@@ -13,7 +13,7 @@ Workshop: Saturday 14 May, 10am - 12pm.
 * `form`s? Lots to say there.
 * [Heydon's examples](http://heydonworks.com/practical_aria_examples/)
 * Personas and ideas from [A Web For Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone/).
-* Performance as an accessiblity issue.
+* Performance as an accessibility issue.
 * [x] Look at the list we made for the Open Design event: [checklist](http://ctfeds.org/open-design-2015-checklist/) and [principles](http://ctfeds.org/open-design-2015-principles/).
 
 # Resources
