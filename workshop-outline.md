@@ -5,7 +5,7 @@ title: Workshop outline
 
 # Workshop outline
 
-We'll all be working on our own stuff, but this isn't a blame game. It's a "how can we make our stuff better for everyone?"" game. It's a love-in. :)
+We'll all be working on our own stuff, but this isn't a blame game. It's a "how can we make our stuff better for everyone?" game. It's a love-in. :)
 
 ## Warm-up questions
 
@@ -18,11 +18,6 @@ We'll all be working on our own stuff, but this isn't a blame game. It's a "how 
 * Review the list of categories of **barriers to access** on the wall. Pick a tick in the column if you know someone who falls into this category.
 
 ---
-
-## Two lightning talks and discussion (15m)
-
-* **Steve**. 5Ws and 1H of Accessibility. Shout outs from audience, but with one in speaker notes?
-* **Justin**. WAI-ARIA whistle-stop tour, landmarks, roles, etc. WCAG levels.
 
 ## Equations chat (5m)
 

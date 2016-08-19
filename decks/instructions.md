@@ -15,14 +15,6 @@
 
 ---
 
-# Lightning Talks
-
-![](img/justin.jpg) ![](img/steve.jpg)
-
-^ 2 x 10m
-
----
-
 # Equations chat
 
 ![](img/discussion.jpg)
