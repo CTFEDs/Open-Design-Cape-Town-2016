@@ -1,8 +1,7 @@
 ### Share your warm-up answers
 
-## Who does<br>accessibility help?
-## Who will you share<br>the stuff from<br>the workshop with?
-
+### Who does accessibility, Universal Design, and Human-Centered Design help?
+### Who will you share<br>the stuff from<br>the workshop with?
 
 ![](img/stickynotes.jpg)
 
@@ -19,17 +18,19 @@
 
 ![](img/discussion.jpg)
 
-^ Justin and Steve talk through
+^ Justin -> inclusive design
+Steve -> Disability
 5m
 
 ---
 
 # Personas tour
-##  Pick a few to focus on
+##  Pick one or two<br>to focus on
 
 ![](img/flipchart.jpg)
 
-^ Pick a few to focus on
+^ Familiar with personas?
+Pick one or two to focus on
 15m
 
 ---
@@ -46,7 +47,7 @@
 
 # How To?
 ## (tool, process, pattern?)
-## ctfeds.org/gaadr
+## ctfeds.org/odctr
 
 ![](img/paper-roll.jpg)
 
@@ -55,13 +56,13 @@
 
 ---
 
-# Work on your stuff
+# Work on<br>your stuff
 
 ![](img/laptop.jpg)
 
 ---
 
-## Inclusive Design At Your Office
+## Inclusive Design<br>Where You Work
 # SMART Goal
 
 ![](img/indexcards.jpg)
