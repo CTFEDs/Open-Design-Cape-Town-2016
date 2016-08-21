@@ -56,6 +56,10 @@ Pick one or two to focus on
 
 ---
 
+# Break! :)
+
+---
+
 # Work on<br>your stuff
 
 ![](img/laptop.jpg)
