@@ -30,7 +30,7 @@ All based heavily on the amazing book [A Web for Everyone](http://rosenfeldmedia
 
 ## Photos
 
-
+[![](photos/thumbs/1.jpg)](photos/1.jpg) [![](photos/thumbs/2.jpg)](photos/2.jpg) [![](photos/thumbs/3.jpg)](photos/3.jpg) [![](photos/thumbs/4.jpg)](photos/4.jpg) 
 
 ### Stuff on walls
 
